@@ -1,0 +1,329 @@
+*{
+    margin-top: 0px;
+    border: border-box;
+    font-family: Arial;
+}
+
+.navbar{
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(netflix_background_image.jpg);
+    /* opacity: 0.8; */
+    background-size: cover;
+    
+    width: 100%;
+    height: 750px;
+}
+.navlogo{
+    height: 100px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+   
+
+
+}
+.logo{
+    width: 250px;
+    height: 80px;
+    background-image: url("Netflix-symbol.jpg");
+
+ 
+    background-size:cover;
+
+}
+.space{
+    width: 75;
+}
+
+
+ .button1{
+    background-color: red;
+    color: white;
+    height: 40px;
+    text-align: center;
+    font-size: 25px;
+    border: none;
+
+}
+.middlepart{
+    height:750px ;
+    width: 1200px;
+    font-weight: 800;
+    /* text-align: center; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 10%;
+}
+.functions{
+    color: white;
+    
+    /* align-items: center;
+    justify-content: center; */
+    /* margin-left: 200px; */
+
+}
+.H1{
+    font-size: 48px;
+}
+.H2{
+    font-size: 24px;
+    text-align: center;
+}
+.H3{
+    font-size: 20px;
+    text-align: center;
+}
+.button2{
+    background-color: red;
+    color:white;
+    
+
+}
+.input1{
+    text-align: center;
+    /* width: 500px;
+    height: 60px;
+} */
+}
+
+
+.secondpage{
+    height: 450px;
+    color: white;
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    /* margin-top: 50px; */
+    padding-top: 72px;
+    padding-bottom: 0px;
+}
+
+.info1{
+    width: 500px;
+    height: 70px;
+    border: 1px solid black;
+    
+}
+.info1 p1{
+    font-size: 48px;
+    font-weight: 700;
+}
+.info1 p2{
+    font-size: 25px;
+}
+
+
+.telivison1{
+    width: 500px;
+    height: 400px;
+    background-image: url("Netflix-programe.png");
+    background-size: contain;
+
+}
+.border{
+    border:7px solid gray;
+}
+.thirdpage{
+    height: 450px;
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    padding-top: 72px;
+    padding-bottom: 0px;
+}
+.phone{
+    width: 400px;
+    height: 400px;
+    background-image: url("netflix_phone.jpg");
+    background-size: cover;
+}
+.info2{
+    width: 575px;
+    height: 400px;
+
+}
+.info2 p3{
+    font-size: 48px;
+}
+.info2 p4{
+    font-size: 25px;
+    padding-top: 25px;
+}
+
+.fourthpage{
+    height: 450px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 72px;
+    
+}
+.info3{
+    width: 575px;
+    height: 400px;
+
+}
+.info3 p4{
+    font-size: 48px;
+    font-weight: 700;
+}
+.info3 p5{
+    font-size: 25px;
+    padding-top: 25px;
+}
+
+.tv2{
+    width: 400px;
+    height: 400px;
+    background-image: url("netflix_tabicon.png");
+    background-size: cover;
+
+}
+
+
+.fifthpage{
+    height: 450px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 72px;
+    
+}
+.info4{
+    width: 575px;
+    height: 400px;
+
+}
+.info4 p5{
+    font-size: 48px;
+    font-weight: 700;
+}
+.info4 p6{
+    font-size: 25px;
+    padding-top: 25px;
+}
+.kids{
+    width: 465px;
+    height: 400px;
+    background-image: url("netflix_kids_profile_image.png");
+    background-size: cover;
+
+}
+.heading{
+    height: 60px;
+    background-color: black;
+    color: white;
+    font-size: 48px;
+    font-weight: 700;
+    text-align: center;
+    padding: 45px;
+}
+ 
+
+.sixthpage{
+    height: 90px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+
+}
+.question1{
+    width: 1000px;
+    height: 80px;
+    background-color: grey;
+    display:flex;
+    justify-content: space-between;
+   
+
+}
+.question2{
+    
+    width: 1000px;
+    height: 80px;
+    background-color: grey;
+    color: white;
+    display:flex;
+    justify-content: space-between;
+   
+
+}
+
+.question3{
+    width: 1000px;
+    height: 80px;
+    background-color: grey;
+    color: white;
+    display:flex;
+    justify-content: space-between;
+}
+
+.question4{
+    width: 1000px;
+    height: 80px;
+    background-color: grey;
+    color: white;
+    display:flex;
+    justify-content: space-between;
+}
+
+.question5{
+    width: 1000px;
+    height: 80px;
+    background-color: grey;
+    color: white;
+    display:flex;
+    justify-content: space-between;
+}
+.buttons{
+    background-color: grey;
+    font-size:xx-large;
+    color: white;
+    border: none;
+}
+.emailadress{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-bottom: 35px;
+    
+    
+}
+
+.getstarted{
+    color: white;
+    background-color: red;
+    
+
+}
+.footer{
+    background-color: black;
+    color: white;
+    height: 250px;
+    display: flex;
+    justify-content:space-evenly;
+    padding-top:  25px;   
+  
+
+}
+ul{
+  font-size: 20px;
+}
+.footer p {
+    font-size: 20px;
+    text-decoration: dotted;
+   
+}
+.disigner{
+    background-color: black;
+    color: white;
+   font-size: 20px;
+   text-decoration:underline;
+   text-align: center;
+   height: 50px; 
+}
+
